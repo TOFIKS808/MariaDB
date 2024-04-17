@@ -1,0 +1,1 @@
+Używać IP wliczając w to 127.0.0.1 a nie localhost
